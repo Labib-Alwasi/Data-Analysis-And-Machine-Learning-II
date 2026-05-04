@@ -1,4 +1,4 @@
-# Section 2: Data Analysis and Machine Learning
+# Data Analysis and Machine Learning
 
 ---
 
